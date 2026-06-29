@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3ef078/T/v1
+canonical_location: https://kanripo.org/bkk/KR3ef078/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒論劉氏傳
+  identifiers:
+    krp: KR3ef078
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef078.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef078_001-T.yaml, hash: 'sha256:10d56a27940d47c05b27325afa12d739992d719617ff8497c9703095006c4aa9'}
+table_of_contents: []
+hash: sha256:767d6fe119d4abd2d800b0b20573b4cb7af5c990b962a4c3ade11e5dd00220ba

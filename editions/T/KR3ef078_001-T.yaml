@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3ef078/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒論劉氏傳
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef078.xml
+hash: sha256:10d56a27940d47c05b27325afa12d739992d719617ff8497c9703095006c4aa9
